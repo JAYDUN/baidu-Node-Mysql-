@@ -33,9 +33,8 @@ CREATE TABLE `news` (
 --
 
 INSERT INTO `news` (`id`, `newsType`, `newsTitle`, `newsImg`, `newsTime`) VALUES
-(1, '精选', '当街行凶', './img/news/2.jpeg', '2017-07-27 00:00:00'),
-(6, '百家', '习近平领导作出重要讲话', '../img/news/1.jpg', '2017-07-28 00:00:00'),
-(7, '其他', '习近平沙场阅兵 号令解放军向世界一流军队进发', '../img/news/3.jpg', '2017-07-30 00:00:00');
+(9, 'Politics', 'Class and politics', './img/news/3.jpeg', '2017-07-31 00:00:00'),
+(12, 'Business', 'Scaramucci out as WH chief moves in', './img/news/4.jpeg', '2017-07-31 00:00:00');
 
 --
 -- Indexes for dumped tables
